@@ -1,7 +1,7 @@
 <?php
 // require_once('dbConnect.php');
 
-define('HOST','35.161.216.115');
+define('HOST','localhost');
 define('USER','root');
 define('PASS','rpl_2016');
 define('DB','sh');
